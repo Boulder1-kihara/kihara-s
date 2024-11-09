@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(119, 118, 218);
+}
+p2{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    fill: rgb(22, 139, 100);
+    size: auto;
+}
+p3{
+   padding: 10px;
+   text-align: left; 
+   color: rgb(26, 23, 23);
+   padding-left: 0%;
+}
+p31{
+    font-size: larger;
+    text-align: center;
+    color: rgb(148, 9, 9);
+}
+p4{
+    color: rgb(151, 36, 36);
+    font-size: larger;
+    text-align: center;
+}
+p5{
+    color: crimson;
+}
